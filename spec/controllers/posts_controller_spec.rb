@@ -76,4 +76,3 @@ RSpec.describe PostsController do
     end
   end
 end
-
